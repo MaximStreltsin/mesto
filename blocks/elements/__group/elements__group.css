@@ -1,0 +1,9 @@
+.element__group {
+  max-width: 100%;
+  border-radius: 10px;
+  background-color: #fff;
+  display: grid;
+  grid-template-rows: 282px 1fr;
+  overflow: hidden;
+  position: relative;
+}
