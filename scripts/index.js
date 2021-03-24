@@ -10,9 +10,9 @@ let nameInput = popupСontainer.querySelector('[name="name"]');
 
 let jobInput = popupСontainer.querySelector('[name="job"]');
 
-let nameNew = document.querySelector('.profile__text1');
+let nameNew = document.querySelector('.profile__title');
 
-let jobNew = document.querySelector('.profile__text2');
+let jobNew = document.querySelector('.profile__subtitle');
 
 
 

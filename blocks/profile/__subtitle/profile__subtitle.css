@@ -1,4 +1,4 @@
-.profile__text2 {
+.profile__subtitle {
     margin: 0;
     font-family: 'Inter', Arial, Helvetica, sans-serif;
     font-weight: 400;
@@ -14,7 +14,7 @@
    
    
    @media screen and (max-width: 320px) {
-     .profile__text2 {
+     .profile__subtitle {
        width: 282px;
        font-size: 14px;
        line-height: 16.94px;
