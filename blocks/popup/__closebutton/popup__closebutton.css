@@ -8,9 +8,9 @@
   background-image: url("../../../images/Close\ Icon.svg");
   background-repeat: no-repeat;
   background-position: center center;
-  margin-left: 390px;
-  margin-top: -70px;
-    color: #fff;
+  left: 1001%;
+  top: -11%;
+  color: #fff;
   
   cursor: pointer;
   position: absolute;
@@ -27,7 +27,7 @@
   .popup__closebutton {
     width: 26px;
     height: 26px;
-    margin-left: 220px;
-    margin-bottom: 40px;
+    left: 90%;
+    top: -14%;
   }
 }

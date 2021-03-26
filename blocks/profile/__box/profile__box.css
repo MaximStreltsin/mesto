@@ -7,5 +7,6 @@
 @media screen and (max-width: 320px) {
   .profile__container {
     justify-content: center;
+    align-items: center;
   }
 }
