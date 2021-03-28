@@ -13,7 +13,7 @@
   border-width: 0 0 1px;
 }
 
-@media screen and (max-width: 470px) {
+@media screen and (max-width: 320px) {
   .popup__enter:last-of-type {
     margin-bottom: 45px;
   }
