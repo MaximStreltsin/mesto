@@ -1,4 +1,4 @@
-*.element {
+.element {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(282px, 1fr));
   gap: 20px 17px;
@@ -11,17 +11,5 @@
 @media screen and (max-width: 320px) {
   .element {
     padding: 36px 0px 0px 0px;
-  }
-}
-
-
-@media screen and (min-width: 1280px) {
-  .cards {
-   min-width: 880px;
-   display: grid;
-   grid-template-columns: repeat(3, 282px);
-   grid-template-rows: repeat(3, minmax(content));
-   gap: 20px 17px;
-   justify-content: center;
   }
 }
