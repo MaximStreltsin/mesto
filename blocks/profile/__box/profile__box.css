@@ -1,16 +1,12 @@
-
 .profile__box {
   margin: 0;
+  margin-bottom: 14px;
   padding: 0;
   display: flex;
-  flex-direction: column;
-  max-width: 336px;
 }
 
 @media screen and (max-width: 767px) {
   .profile__box {
-      min-width: 282px;
-      align-items: center;
-      justify-content: center;
+      width: 100%;
   }
 }
