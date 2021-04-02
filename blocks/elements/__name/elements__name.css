@@ -1,11 +1,5 @@
-.elements__name {
-  padding: 0;
-    margin: 25px 15px 31px 21px;
+ .elements__name {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    overflow: hidden;
+    width: 246px;
+    margin: auto;
   }
-
-
-  

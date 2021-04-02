@@ -1,15 +1,15 @@
 .element {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(282px, 1fr));
-  gap: 20px 17px;
-  padding: 50px 0 66px 0;
-  margin: 0 auto;
-  max-width: 880px;
-  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  margin: 2px 19px 20px 19px;
+  min-width: 282px;
+  min-height: 361px;
+ 
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 1280px) {
   .element {
-    padding: 36px 0px 0px 0px;
+    margin: 0; 
   }
 }
+
