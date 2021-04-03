@@ -21,7 +21,7 @@
   cursor: pointer;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .popup__submitbutton {
     margin-top: 15px;
     font-size: 14px;
