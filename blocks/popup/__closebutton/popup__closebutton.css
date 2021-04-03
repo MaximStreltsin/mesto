@@ -23,11 +23,11 @@
   cursor: pointer;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .popup__closebutton {
-    width: 26px;
-    height: 26px;
-    left: 90%;
-    top: -14%;
+  left: 90%;
+  top: -14%;
+  width: 26px;
+  height: 26px;
   }
 }
